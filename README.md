@@ -2,7 +2,7 @@
 
 My name is Kasey and I am currently studying Aerospace engineering at ISU!
 I decided to persue aerospace engineering because:
-###Planes are cool!
+### Planes are cool!
 
 I am fascinated with aircraft and love knowing and figuring out how things work.
 
