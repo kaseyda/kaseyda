@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Kasey and I am currently studying Aerospace engineering at ISU!
+I decided to persue aerospace engineering because:
+###Planes are cool!
+
+I am fascinated with aircraft and love knowing and figuring out how things work.
+
+⚡ Fun fact: I love the creative aspects of life! I enjoy music and playing guitar (though I don't get the time to play enough) and am fascinated by other artistic avenues such as playing around in Blender or even building furniture (at least in one case).
+
 <!--
 **kaseyda/kaseyda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
